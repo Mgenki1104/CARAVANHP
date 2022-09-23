@@ -56,7 +56,7 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
 .main-visual {
   width: 100%; /* 横幅いっぱい */
   height: 300px; /* 高さ300px */
-  background-image: url(img/mv.jpg);
+  background-image: url(mv.jpg);
   background-size:cover;
   background-position:center;
 }
@@ -193,27 +193,27 @@ main {
 }
 
 .instagram-box:nth-child(1) {
-  background-image: url(img/airport.jpg);
+  background-image: url(airport.jpg);
 }
 
 .instagram-box:nth-child(2) {
-  background-image: url(img/japan.jpg);
+  background-image: url(japan.jpg);
 }
 
 .instagram-box:nth-child(3) {
-  background-image: url(img/snow.jpg);
+  background-image: url(snow.jpg);
 }
 
 .instagram-box:nth-child(4) {
-  background-image: url(img/japan2.jpg);
+  background-image: url(japan2.jpg);
 }
 
 .instagram-box:nth-child(5) {
-  background-image: url(img/lake.jpg);
+  background-image: url(lake.jpg);
 }
 
 .instagram-box:nth-child(6) {
-  background-image: url(img/road.jpg);
+  background-image: url(road.jpg);
 }
 
 footer {
